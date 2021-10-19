@@ -4,6 +4,7 @@
 To install dpp; 
  - cd code
  - python setup.py install
+ - Download eachseq_data_minlen2_train.pkl file from the link in readme.txt in kdd_data folder
 
 
 ## RUN
@@ -14,8 +15,6 @@ To run the code train code;
 After running the code;
   - Run the cluster.ipynb file
 
-## SLIDE LINK
-  - [Link]()
 
 ## REQUIRED ENVIRONMENTS
   - Python3
