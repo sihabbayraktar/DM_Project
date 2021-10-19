@@ -1,5 +1,9 @@
 # DM_Project
 
+## INITIAL
+To install dpp; 
+ -python setup.py install
+
 
 ## RUN
 To run the code train code;
@@ -11,3 +15,14 @@ After running the code;
 
 ## SLIDE LINK
   - [Link]()
+
+## REQUIRED ENVIRONMENTS
+  - Python3
+  - GPU
+
+## REQUIRED PACKAGES
+ -numpy=1.16.4
+ -pytorch=1.4.0
+ -scikit-learn=0.24.0
+ -scipy=1.6.0
+ - matplotlib 
