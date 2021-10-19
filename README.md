@@ -2,7 +2,8 @@
 
 ## INITIAL
 To install dpp; 
- -python setup.py install
+ - cd code
+ - python setup.py install
 
 
 ## RUN
